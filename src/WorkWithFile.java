@@ -32,7 +32,7 @@ public class WorkWithFile {
                 data += line+"\n";
             }
         }
-        
+
         try{
 
             //Если файла нет, создаем его
